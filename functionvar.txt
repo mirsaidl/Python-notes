@@ -1,0 +1,2 @@
+print(f{x:2f}) - helps to format in 2 digit (x is a float variable)
+end = "" - string
